@@ -1,0 +1,7 @@
+.DS_Store
+.project
+*.pyc
+*.java
+*.class
+*.vscode
+*.json
